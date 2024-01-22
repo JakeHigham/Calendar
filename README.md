@@ -23,7 +23,7 @@ N/A
 
 ## Usage
 
-- Use it to schedule your work day
+- Use it to schedule your work day!
   
 
 ## License
@@ -33,6 +33,10 @@ N/A
 ## Credits
 
 https://stackoverflow.com/questions/62747816/function-does-not-make-it-past-else-if
+
+This page is built using Bootstrap, Jquery, DayJS
+
+Icons from FontAwesome
 
 ## Screenshot
 
